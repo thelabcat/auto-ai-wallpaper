@@ -19,7 +19,7 @@ IMG_HEIGHT =360
 
 LOCATION = open("weather_location.txt").read().strip()
 
-WALLPAPER_PATH=os.getcwd()+os.sep+"generated wallpapers"
+WALLPAPER_PATH=os.getcwd()+os.sep+"generated_wallpapers"
 
 LAST_PROMPT_LOG=os.getcwd()+os.sep+"last_prompt.txt"
 
